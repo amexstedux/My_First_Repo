@@ -1,0 +1,24 @@
+nav{background-color: chartreuse;
+height: 50px; }
+
+.menu-item{background-color: bisque;
+color: white; 
+display: inline-block; 
+height: 32px;
+width: 50px; 
+Padding: 10px;
+}
+.jesse {background:burlywood;
+}
+.sidebar{float: left;
+width:500px;
+background-color: aquamarine;
+height: 500px;}
+
+.dogpic {
+width: 200px;
+border-color: crimson;
+border-width: 3px;
+}
+
+header{float:top;}
